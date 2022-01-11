@@ -13,3 +13,6 @@ def my_func():
     print('Сумма введенных чисел равна: {s}')
 
 print(my_func())
+
+1
+
