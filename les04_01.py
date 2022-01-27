@@ -7,5 +7,3 @@ def salary():
     except ValueError:
         print('Err')
 salary()
-
-sys
